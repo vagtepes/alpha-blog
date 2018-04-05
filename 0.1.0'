@@ -1,0 +1,2 @@
+ERROR: "bundle install" was called with arguments ["wdm,", ""]
+Usage: "bundle install [OPTIONS]"
